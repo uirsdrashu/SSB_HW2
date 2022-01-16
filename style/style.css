@@ -33,8 +33,12 @@ a{
 
 .opacity {
   background-color: purple;
-  
-  table{
+  opacity: 0.5;
+  height: 110px;
+  width: 30%;
+}
+
+table{
   width: 100%;
   border: 1px solid black;
 }
@@ -43,9 +47,4 @@ tr, th, td {
   font-size: 20px;
   text-align: center;
   border: 1px solid black;
-}
-  opacity: 0.5;
-  height: 110px;
-  width: 30%;
-
 }
