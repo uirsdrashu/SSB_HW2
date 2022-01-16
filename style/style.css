@@ -1,0 +1,40 @@
+h1{
+  background-color: bisque;
+  color: #24A19C;
+  border: 5px solid #6867AC;
+}
+
+h2{
+  font-size: fixed;
+  border: 3px dotted #5800FF; 
+}
+
+.green{
+  color: #146356;
+}
+
+a{
+  font-size:25px;
+}
+
+.border{
+  border: 2px solid #95CD41;
+}
+#big_text {
+  font-size: 45px;
+  color:#cd7941;
+}
+
+.box {
+  background-color: purple;
+  height: 110px;
+  width: 60%;
+}
+
+.opacity {
+  background-color: purple;
+  opacity: 0.5;
+  height: 110px;
+  width: 30%;
+
+}
